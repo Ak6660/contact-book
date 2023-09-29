@@ -1,2 +1,2 @@
 # contact-book
-Created with CodeSandbox
+Small React app demo for reusability of UI dynamically.
